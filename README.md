@@ -38,8 +38,16 @@ To build and run the software:
 5. Use `chmod +x ./MyPlayer` on board to give the binary permission to execute.
 6. Type `./Myplayer filename` to run the program. `filename` should be replaced with your own music filename.
 
+## Known Bugs
+
+These codes still contain minor unresolved bugs, such as having noise when playing some music with a specific frequency.
+
 ## Credits
+
+Cited resources:
 
 * Terasic VIP Demo：[Terasic - DE Boards - Cyclone - DE1-SoC Board](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=165&No=836&PartNo=5)
 * [bsteinsbo/DE1-SoC-Sound (github.com)](https://github.com/bsteinsbo/DE1-SoC-Sound)
 * [ffxx283/WM8731_Audio: FPGA Control WM8731 Audio codec (github.com)](https://github.com/ffxx283/WM8731_Audio)
+
+And special thanks to my two workmates on this project.
