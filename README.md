@@ -1,5 +1,9 @@
 # DE1-SoC-MyPlayer
 
+The project aims to make DE1-SoC board a music player, which can play music from an SD card using the onboard WM8731 chip.
+
+For more detailed information,  check [FPGA 开发笔记：DE1-SoC 音乐播放器的实现 - Nativus' Space (naiv.fun)](https://naiv.fun/Misc/57.html)(in Chinese | 中文文档).
+
 ## Requirement
 
 Tested on the following platform/software:
@@ -23,7 +27,7 @@ Note: if any change is made to Qsys design, the C header file must be regenerate
 
 ## Software
 
-The hardware part only gives you a basis to play sounds with DE1-SoC, and the software is here to process the music data and configure your SoC to play correctly.
+The hardware part only establishes a base to play sounds with DE1-SoC, and the software is here to process the music data and configure the SoC to play correctly.
 
 To build and run the software:
 
