@@ -2,7 +2,7 @@
 
 The project aims to make DE1-SoC board a music player, which can play music from an SD card using the onboard WM8731 chip.
 
-For more detailed information,  check [FPGA 开发笔记：DE1-SoC 音乐播放器的实现 - Nativus' Space (naiv.fun)](https://naiv.fun/Misc/57.html)(in Chinese | 中文文档).
+For more detailed information,  check [FPGA 开发笔记：DE1-SoC 音乐播放器的实现 - Nativus' Space (naiv.fun)](https://naiv.fun/hardware/57.html)(in Chinese | 中文文档).
 
 ## Requirement
 
